@@ -7,6 +7,20 @@ The next part of Github's user page shows the total number of stars in the repos
 
 ![Star Count](http://i.imgur.com/ZiaabBm.png "Show Star Count")
 
+And Show number of stars on toolbar icon.
+
+![Star Count](http://i.imgur.com/sKz4II8.jpg "Show Star Count ")
+
+### Usage
+
+It works on the following page.
+
+* Overview
+* Repositories
+* Stars
+* Followers
+* Following
+
 ### Note
 
 **Ignore the forked repository.**  
