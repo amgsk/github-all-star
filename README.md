@@ -3,10 +3,15 @@
 
  [![github-lang-chart](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/github-all-star/gajlfmniiecklohehgdfcdoimnnofdog)
 
-The next part of Github's user page shows the total number of stars in the repository you own.
+The next part of Github's user page shows the total number of stars in the repository you own.  
 
 ![Star Count](http://i.imgur.com/ZiaabBm.png "Show Star Count")
- 
+
+### Note
+
+**Ignore the forked repository.**  
+Only the source is counted as the count.
+
 contributing
 ------------
 
