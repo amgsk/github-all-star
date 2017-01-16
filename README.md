@@ -7,7 +7,7 @@ The next part of Github's user page shows the total number of stars in the repos
 
 ![Star Count](http://i.imgur.com/ZiaabBm.png "Show Star Count")
  
- ontributing
+contributing
 ------------
 
 Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
